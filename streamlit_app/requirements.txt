@@ -1,0 +1,7 @@
+streamlit
+numpy
+onnxruntime
+insightface
+psycopg[binary]
+supabase
+python-dotenv
